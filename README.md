@@ -8,7 +8,7 @@
 
 > 👀 Focus:  `...`
 
-> 🤩 Hobbies: `Coding`, `Learning New Technologies`
+> 🤩 Hobbies: `Coding`,`Reverse`, `Learning New Technologies`
 
 </td></tr>
 
